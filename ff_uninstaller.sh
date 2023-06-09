@@ -9,3 +9,4 @@
 rm -rf ~/ffmpeg_build ~/ffmpeg_sources ~/bin/{ffmpeg,ffprobe,ffserver,lame,vsyasm,x264,yasm,ytasm} ~/bin
 yum erase autoconf automake bzip2 cmake freetype-devel gcc gcc-c++ git libtool mercurial nasm pkgconfig zlib-devel
 hash -r
+
